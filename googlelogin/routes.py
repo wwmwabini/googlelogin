@@ -50,10 +50,6 @@ def callback():
 
 	)
 
-	print('token_url', token_url)
-	print('headers', headers)
-	print('body', body)
-
 	token_response = requests.post(
     token_url,
     headers=headers,

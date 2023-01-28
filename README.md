@@ -9,3 +9,6 @@ To logout, access the /logout path.
 
 # Requirements
 See requirements.txt
+
+# Credits/Refs
+https://realpython.com/flask-google-login/
